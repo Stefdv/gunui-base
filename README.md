@@ -60,3 +60,6 @@ Gun is available as 'GunUi.gun'</b>
 
 ## Now what?
 Now you are ready to start building great apps with Gun but without having to write javascript :). Take a look at the GunUi elements available.
+
+##Contact
+I'm a terrible e-mail reader, so please post any questions in gitter @Stefdv
